@@ -1,4 +1,3 @@
-## Screenshot
 ![Screenshot](https://github.com/jackrabbit72380/ProjectOra237/blob/master/pjora.png)
 
 <h1 align="center">Hi there 👋, My Name's Justin</h1>
