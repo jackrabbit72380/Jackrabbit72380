@@ -5,7 +5,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=jackrabbit72380&color=0000E5&style=flat-square">
 
-- I’m From the USA
+- I’m From the US/\
 - 🔭 I’m currently working on several projects, notably **[CemuGUI](https://jackrabbit72380.github.io/CemuGUIThemesOnline/)**
 - 💬 Ask me about anything!
 
