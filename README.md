@@ -7,6 +7,8 @@
 
 - I’m From the US/\
 - 🔭 I’m currently working on several projects, notably **[CemuGUI](https://jackrabbit72380.github.io/CemuGUIThemesOnline/)**
+- Rebranded Project Uniflow
+- Some of my other projects Include Video game development for the popular video games Halo & Super Mario
 - 💬 Ask me about anything!
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackrabbit72380&theme=light&hide_langs_below=1">
