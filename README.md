@@ -1,7 +1,7 @@
 ![Screenshot](https://github.com/jackrabbit72380/ProjectOra237/blob/master/pjora.png)
 
 <h1 align="center">Hi there 👋, My Name's Justin</h1>
-<h3 align="center">I am a Software Engineer/network developer/Graphic Designer. My work mostly consists of backend work & reverse engineering. I like to design in Adobie Photoshop & light web & application development</h3>
+<h3 align="center">I am a Software Developer/Graphic Designer. My work mostly consists of backend development & reverse engineering. I like to design in Adobe Photoshop & various other software. I dabble in web & application development, 3D modeling, and a little bit of programming. In my free time, I work on various video game projects Hope you find this repository & my little code sniplets usefull in some way. thanks for taking a look!</h3>
 
 <img src="https://komarev.com/ghpvc/?username=jackrabbit72380&color=0000E5&style=flat-square">
 
