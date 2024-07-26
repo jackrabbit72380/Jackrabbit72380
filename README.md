@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 ![Screenshot](https://github.com/jackrabbit72380/ProjectOra237/blob/master/pjora.png)
 
 <h1 align="center">Hi there 👋, My Name's Justin</h1>
