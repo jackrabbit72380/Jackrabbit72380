@@ -21,6 +21,7 @@
 <h2>I have Experience with:</h2>
 <p>
 	Adobie Photoshop, 3ds MAX, Blender, Halo/Blam/HEK/, C++, C#, Silverlight, Batch, Dos, HTML, XHTML, HTML5, AudioIT
+	<img height="40" src="https://raw.githubusercontent.com/jackrabbit72380/jackrabbit72380/master/blender.png">
 	<img height="40" src="https://raw.githubusercontent.com/jackrabbit72380/jackrabbit72380/master/photoshop.svg">
 	<img height="40" src="https://raw.githubusercontent.com/jackrabbit72380/jackrabbit72380/master/mspowerpoint.svg">
 	<img height="40" src="https://raw.githubusercontent.com/jackrabbit72380/jackrabbit72380/master/msword.svg">
