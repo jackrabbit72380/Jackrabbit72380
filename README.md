@@ -20,6 +20,7 @@
 
 <h2>I have Experience with:</h2>
 <p>
+	Photoshop, 3ds MAX, Halo/Blam/HEK/, C++, C#, Silverlight, Batch, Dos, HTML, XHTML, HTML5
 	<img height="40" src="https://raw.githubusercontent.com/jackrabbit72380/jackrabbit72380/master/photoshop.svg">
 	<img height="40" src="https://raw.githubusercontent.com/jackrabbit72380/jackrabbit72380/master/mspowerpoint.svg">
 	<img height="40" src="https://raw.githubusercontent.com/jackrabbit72380/jackrabbit72380/master/msword.svg">
