@@ -49,7 +49,7 @@
 - 
  if you like my work & want to help out you can help me further my developments to bring you more great softworks on patreon all donations will be greatly appreciated!
 You can buy me a coffie here.
-- <a href="https://www.patreon.com/Jackrabbit72380/"></a>
+patreon.com/Jackrabbit72380
 
 <h2>Featured repos:</h2>
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jackrabbit72380&repo=CemuGUIThemesOnline">
