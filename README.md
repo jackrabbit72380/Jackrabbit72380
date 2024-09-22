@@ -45,9 +45,10 @@
 - <a href="https://twitter.com/landsoftworks"><img height="30" src="https://raw.githubusercontent.com/jackrabbit72380/jackrabbit72380/master/twitter.svg"></a>
 - <a href=" https://discord.gg/2N3JXnw4"><img height="30" title="jackrabbit72380#4478" src="https://raw.githubusercontent.com/jackrabbit72380/jackrabbit72380/master/discord.svg"> (J.r.L/\nd#1627)</a>
 - <a href="https://www.linkedin.com/in/justin-land-4a83682b/"><img height="30" src="https://raw.githubusercontent.com/jackrabbit72380/jackrabbit72380/master/linkedin.svg"></a>
-- <img height="40" src="https://raw.githubusercontent.com/jackrabbit72380/jackrabbit72380/master/Outlook.svg">    jackrabbit72380@hotmail.com
+- <img height="40" src="https://raw.githubusercontent.com/jackrabbit72380/jackrabbit72380/master/Outlook.svg"> jackrabbit72380@hotmail.com
 - 
-if you want to help out and support my work you can buy me a coffie here patreon.com/Jackrabbit72380 all donations will be greatly appreciated! and help me further my developments to bring you more great softworks.
+if you like my work & want to help out you can help me further my developments to bring you more great softworks on patreon all donations will be greatly appreciated!
+You can buy me a coffie here. patreon.com/Jackrabbit72380
 
 <h2>Featured repos:</h2>
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jackrabbit72380&repo=CemuGUIThemesOnline">
