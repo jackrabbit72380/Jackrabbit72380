@@ -48,7 +48,8 @@
 - <img height="40" src="https://raw.githubusercontent.com/jackrabbit72380/jackrabbit72380/master/Outlook.svg"> jackrabbit72380@hotmail.com
 - 
  if you like my work & want to help out you can help me further my developments to bring you more great softworks on patreon all donations will be greatly appreciated!
-You can buy me a coffie here. - <a patreon.com/Jackrabbit72380></a>
+You can buy me a coffie here.
+- <a href="https://www.patreon.com/Jackrabbit72380/"></a>
 
 <h2>Featured repos:</h2>
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jackrabbit72380&repo=CemuGUIThemesOnline">
