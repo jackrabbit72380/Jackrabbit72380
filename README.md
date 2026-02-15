@@ -1,3 +1,49 @@
+# Hi, I'm Justin (jackrabbit72380) 👋
+
+Passionate about **emulation frontends**, **game modding tools**, **UI/UX for retro gaming**, and **community-driven tooling**.  
+Mostly active in the Wii U emulation scene and occasionally Halo modding / Blender asset pipelines.
+
+## 🚀 Featured Projects
+
+### [CemuGUI](https://github.com/jackrabbit72380/CemuGUI2.5Beta)
+Modern frontend / launcher for **Cemu** (Wii U emulator)  
+- Dynamic game library with box art scraping  
+- Gamepad-friendly navigation (Xbox 360 / keyboard support)  
+- Clean, themeable interface  
+- Actively developed beta series (2.5+)  
+
+→ [Try the latest release](https://github.com/jackrabbit72380/CemuGUI2.5Beta/releases)  
+→ [Online Theme Gallery & One-Click Downloads](https://jackrabbit72380.github.io/CemuGUIThemesOnline/)
+
+### [CemuGUI Themes Online](https://jackrabbit72380.github.io/CemuGUIThemesOnline/)
+Static site + submission form for high-quality, free community themes  
+- Browse & download themes instantly  
+- Easy upload system for creators  
+- Microsoft Tag QR support for quick mobile downloads
+
+## 🔧 Other Contributions & Interests
+
+- Halo Asset Blender Toolset troubleshooting & feedback  
+  (e.g. Blender 4.1+ export fixes for Halo 3 .ass files)  
+- Occasional contributions to emulation, modding & retro-gaming tooling  
+- Long-time interest in Android modding (Gapps, custom ROM helpers), Wii U / Xbox 360 scene
+
+## 🛠️ Tech Stack I Enjoy
+
+- **Languages**: Python, C#, JavaScript / TypeScript  
+- **UI**: WPF, WinForms, HTML+CSS+JS (static sites), custom theming systems  
+- **Tools & Domains**: Emulators (Cemu), Blender add-ons, GitHub Pages, game asset pipelines, scraping & metadata handling
+
+## 📫 Connect
+
+- GitHub: [@jackrabbit72380](https://github.com/jackrabbit72380)  
+- Themes site: https://jackrabbit72380.github.io/CemuGUIThemesOnline/  
+- Feel free to open issues / PRs on my repos or reach out about Wii U emulation, theming, or modding tools!
+
+⭐ Star something if you find it useful — it really helps!
+
+Thanks for stopping by! 🐰
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
