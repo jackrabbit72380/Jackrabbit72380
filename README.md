@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h1>Hi there 👋, I'm Justin (jackrabbit72380)</h1>
+  <h1>Hi there 👋, I'm (Jackrabbit72380)</h1>
 </div>
 
 I am a Software Developer/Graphic Designer. My work mostly consists of Software development & reverse engineering. I like to design in Adobe Photoshop, 3ds Max, Blender & various other software. I dabble in web & application development, 3D modeling, and a little bit of programming. Mainly with Basic and HTML. In my free time, I work on various video game projects. Hope you find this repository & my little code snippets useful in some way. Thanks for taking a look!
