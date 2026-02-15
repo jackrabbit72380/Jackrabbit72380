@@ -1,108 +1,70 @@
-<h1 align="center"> # Hi there 👋, I'm Justin (jackrabbit72380)</h1>
-I am a Software Developer/Graphic Designer. My work mostly consists of Software development & reverse engineering. I like to design in Adobe Photoshop 3ds max, Blender & various other software. I dabble in web & application development, 3D modeling, and a little bit of programming. Mainly with Basic and HTML In my free time, I work on various video game projects Hope you find this repository & my little code sniplets usefull in some way. thanks for taking a look!</h3>
-im also Passionate about **emulation frontends**, **game modding tools**, **UI/UX for retro gaming**, and **community-driven tooling**.  
-Mostly active in the Wii U emulation scene and occasionally Halo modding / Blender asset pipelines.<h3 align="center">
-
-## 🚀 Featured Projects
-
-### [CemuGUI](https://github.com/jackrabbit72380/CemuGUI2.5Beta)
-Modern frontend / launcher for **Cemu** (Wii U emulator)  
-- Dynamic game library with box art scraping  
-- Gamepad-friendly navigation (Xbox 360 / keyboard support)  
-- Clean, themeable interface  
-- Actively developed beta series (2.5+)  
-
-→ [Try the latest release](https://github.com/jackrabbit72380/CemuGUI2.5Beta/releases)  
-→ [Online Theme Gallery & One-Click Downloads](https://jackrabbit72380.github.io/CemuGUIThemesOnline/)
-
-### [CemuGUI Themes Online](https://jackrabbit72380.github.io/CemuGUIThemesOnline/)
-Static site + submission form for high-quality, free community themes  
-- Browse & download themes instantly  
-- Easy upload system for creators  
-- Microsoft Tag QR support for quick mobile downloads
-
-## 🔧 Other Contributions & Interests
-
-- Halo Asset Blender Toolset troubleshooting & feedback  
-  (e.g. Blender 4.1+ export fixes for Halo 3 .ass files)  
-- Occasional contributions to emulation, modding & retro-gaming tooling  
-- Long-time interest in Android modding (Gapps, custom ROM helpers), Wii U / Xbox 360 scene
-
-## 🛠️ Tech Stack I Enjoy
-
-- **Languages**: Python, C#, JavaScript / TypeScript  
-- **UI**: WPF, WinForms, HTML+CSS+JS (static sites), custom theming systems  
-- **Tools & Domains**: Emulators (Cemu), Blender add-ons, GitHub Pages, game asset pipelines, scraping & metadata handling
-
-## 📫 Connect
-
-- GitHub: [@jackrabbit72380](https://github.com/jackrabbit72380)  
-- Themes site: https://jackrabbit72380.github.io/CemuGUIThemesOnline/  
-- Feel free to open issues / PRs on my repos or reach out about Wii U emulation, theming, or modding tools!
-
-⭐ Star something if you find it useful — it really helps!
-
-Thanks for stopping by! 🐰
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="coding gif"/>
+  <h1>Hi there 👋, I'm Justin (jackrabbit72380)</h1>
 </div>
 
-![Screenshot](https://github.com/jackrabbit72380/ProjectOra237/blob/master/pjora.png)
+**Software Developer • Graphic Designer • Reverse Engineer**
 
-<img src="https://komarev.com/ghpvc/?username=jackrabbit72380&color=0000E5&style=flat-square">
+I build tools, frontends, and mods — mostly around **emulation** (Wii U / Cemu scene), **game modding** (Halo, retro titles), and creative asset pipelines.  
+I design in **Adobe Photoshop**, **3ds Max**, **Blender**, and enjoy dabbling in web/app development, 3D modeling, UI/UX, and scripting (from BASIC & Batch nostalgia to modern languages).
 
-- I’m From the US/\
-- 🔭 I’m currently working on several projects, notably **[CemuGUI](https://jackrabbit72380.github.io/CemuGUIThemesOnline/)**
-- Rebranded Project Uniflow
-- Some of my other projects Include Video game development for the popular video games Halo & Super Mario
-- 💬 Ask me about anything!
+In my free time: video game projects, theme creation, community tooling, and fixing weird reverse-engineering puzzles.
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackrabbit72380&theme=light&hide_langs_below=1">
-<img src="https://github-readme-stats.vercel.app/api?username=jackrabbit72380&show_icons=true&include_all_commits=true">
+### 🚀 Featured Projects
 
-<h2>I have Experience with:</h2>
-<p>
-	Adobie Photoshop, 3ds MAX, Blender, Halo/Blam/HEK/, C++, C#, Silverlight, Batch, Dos, HTML, XHTML, HTML5, AudioIT.
-	<img height="40" src="https://raw.githubusercontent.com/jackrabbit72380/jackrabbit72380/master/3dsmax.png">
-	<img height="40" src="https://raw.githubusercontent.com/jackrabbit72380/jackrabbit72380/master/blender.png">
-	<img height="40" src="https://raw.githubusercontent.com/jackrabbit72380/jackrabbit72380/master/photoshop.svg">
-	<img height="40" src="https://raw.githubusercontent.com/jackrabbit72380/jackrabbit72380/master/mspowerpoint.svg">
-	<img height="40" src="https://raw.githubusercontent.com/jackrabbit72380/jackrabbit72380/master/msword.svg">
-	<img height="40" src="https://raw.githubusercontent.com/jackrabbit72380/jackrabbit72380/master/node-dot-js.svg">
-	<img height="40" src="https://raw.githubusercontent.com/jackrabbit72380/jackrabbit72380/master/javascript.svg">
-	<img height="40" src="https://raw.githubusercontent.com/jackrabbit72380/jackrabbit72380/master/go.svg">
-	<img height="40" src="https://raw.githubusercontent.com/jackrabbit72380/jackrabbit72380/master/dart.svg">
-	<img height="40" src="https://raw.githubusercontent.com/jackrabbit72380/jackrabbit72380/master/python.svg">
-	<img height="40" src="https://raw.githubusercontent.com/jackrabbit72380/jackrabbit72380/master/php.svg">
-	<img height="40" src="https://raw.githubusercontent.com/jackrabbit72380/jackrabbit72380/master/flutter.svg">
-	<img height="40" src="https://raw.githubusercontent.com/jackrabbit72380/jackrabbit72380/master/electron.svg">
-	<img height="40" src="https://raw.githubusercontent.com/jackrabbit72380/jackrabbit72380/master/html5.svg">
-	<img height="40" src="https://raw.githubusercontent.com/jackrabbit72380/jackrabbit72380/master/css3.svg">
-	<img height="40" src="https://raw.githubusercontent.com/jackrabbit72380/jackrabbit72380/master/mongodb.svg">
-	<img height="40" src="https://raw.githubusercontent.com/jackrabbit72380/jackrabbit72380/master/apachecassandra.svg">
-</p>
+**[CemuGUI 2.5 Beta](https://github.com/jackrabbit72380/CemuGUI2.5Beta)**  
+Modern, themeable launcher/frontend for **Cemu** (Wii U emulator)  
+- Dynamic game library + automatic box art scraping  
+- Xbox 360 gamepad + keyboard navigation  
+- Clean, customizable interface  
+→ [Latest releases](https://github.com/jackrabbit72380/CemuGUI2.5Beta/releases)  
+→ [Community Theme Gallery](https://jackrabbit72380.github.io/CemuGUIThemesOnline/)
 
-<h2>Hit me up!:</h2>
+**[CemuGUI Themes Online](https://jackrabbit72380.github.io/CemuGUIThemesOnline/)**  
+Free, high-quality theme hub for CemuGUI  
+- One-click downloads  
+- Easy theme submission/upload  
+- QR codes for quick mobile access
 
-- <a href="https://twitter.com/landsoftworks"><img height="30" src="https://raw.githubusercontent.com/jackrabbit72380/jackrabbit72380/master/twitter.svg"></a>
-- <a href=" https://discord.gg/2N3JXnw4"><img height="30" title="jackrabbit72380#4478" src="https://raw.githubusercontent.com/jackrabbit72380/jackrabbit72380/master/discord.svg"> (J.r.L/\nd#1627)</a>
-- <a href="https://www.linkedin.com/in/justin-land-4a83682b/"><img height="30" src="https://raw.githubusercontent.com/jackrabbit72380/jackrabbit72380/master/linkedin.svg"></a>
-- <img height="40" src="https://raw.githubusercontent.com/jackrabbit72380/jackrabbit72380/master/Outlook.svg"> jackrabbit72380@hotmail.com
-- 
- if you like my work & want to help out you can help me further my developments to bring you more great softworks on patreon all donations will be greatly appreciated!
-You can buy me a coffie here.
-patreon.com/Jackrabbit72380
+**[Ho4kmmm](https://github.com/jackrabbit72380/Ho4kmmm)**  
+Halo Online 4K Main Menu / UI mod
 
-<h2>Featured repos:</h2>
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jackrabbit72380&repo=CemuGUIThemesOnline">
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=jackrabbit72380&repo=CemuGUI">
+Other interests: Blender Halo asset fixes (.ass exports), Xenia (Xbox 360 emu) experiments, Android modding helpers (old Gapps/ROM tools), Windows Phone theming nostalgia
 
-<!--
-**jackrabbit72380/jackrabbit72380** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tech & Tools I Use
 
-Here are some ideas to get you started:
+**Languages & Scripting**  
+C#, Python, JavaScript/TypeScript, HTML/CSS, BASIC, Batch, AutoIt, some C++
 
+**Design & 3D**  
+Adobe Photoshop, 3ds Max, Blender, Halo/Blam/HEK tools
+
+**UI & Frameworks**  
+WPF, WinForms, Electron, static sites (GitHub Pages), custom theming
+
+**Domains**  
+Emulators (Cemu, Xenia), game asset pipelines, metadata/scraping, reverse engineering, retro gaming mods
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackrabbit72380&theme=light&layout=compact&hide=less-popular" alt="Top languages"/>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jackrabbit72380&show_icons=true&include_all_commits=true&theme=light" alt="Stats"/>
+</div>
+
+### 📫 Connect & Support
+
+- GitHub: [@jackrabbit72380](https://github.com/jackrabbit72380)  
+- Discord: J.r.L/\nd#1627 (server: https://discord.gg/2N3JXnw4)  
+- Twitter/X: [@landsoftworks](https://twitter.com/landsoftworks)  
+- LinkedIn: [Justin Land](https://www.linkedin.com/in/justin-land-4a83682b/)  
+- Email: jackrabbit72380@hotmail.com  
+
+Love my work? Consider supporting future projects:  
+<a href="https://patreon.com/Jackrabbit72380">Patreon</a> | Buy me a coffee!
+
+Feel free to open issues, send PRs, or ask about Wii U emulation, Halo modding, Blender pipelines, theming, or anything retro-gaming related.
+
+Thanks for stopping by! 🐰
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
