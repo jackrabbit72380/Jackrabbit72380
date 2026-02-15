@@ -12,7 +12,8 @@
 I create tools, frontends, mods, Operating Systems and other creative assets — mainly in the *Windows Operating Envioment** also been around the **Wii U emulation scene** (Cemu), & **Halo modding Scene**, and retro gaming theming. has always been one of my hobbys. I work with **Adobe Photoshop**, **3ds Max**, **Blender**, and code in C#, Python, JavaScript, HTML/CSS, BASIC, Batch, AutoIt, and more.  
 I am Passionate about emulation frontends, game modding tools, UI/UX/OS Development for retro gaming, Community-driven projects. as well as custom versions of Microsft Windows & Google Android.
 I am the first perosn to relese a color version of windows moble v 7.8 back in 2005. Alpha Lion Rom Relesed over on the XDA Forums.
-and have been around the Halo moding scene sence around 2002.
+and have been around the Halo moding scene sence around 2002. I have a long list of Repositoryts and Projects I am involved with. including my own game launcher and many new custom halo levels.
+Projects are always evolving so there are to manny to list here. But i will include some below.
 
 ### 🚀 Best Projects
 
