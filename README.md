@@ -5,11 +5,13 @@
   <h1>Hi 👋, I'm (jackrabbit72380)</h1>
 </div>
 
-**A little bit about me! Software Developer • Graphic Designer • Reverse Engineer**
+**A Little bit About Me!** I am a Huge software and hardware entusiast jack of all trades if you will with a knack for building and creating digital content,
+**I cary manny roals such as** 
+**Software Developer • Graphic Designer • Reverse Engineer • Programmer Ui/Ux/Os Developer**
 
-I create tools, frontends, mods, and creative assets — mainly in the **Wii U emulation scene** (Cemu), **Halo modding**, and retro gaming theming.  
+I create tools, frontends, mods, Operating Systems and other creative assets — mainly in the **Wii U emulation scene** (Cemu), **Halo modding**, and retro gaming theming.  
 I work with **Adobe Photoshop**, **3ds Max**, **Blender**, and code in C#, Python, JavaScript, HTML/CSS, BASIC, Batch, AutoIt, and more.  
-Passionate about emulation frontends, game modding tools, UI/UX for retro gaming, and community-driven projects.
+Passionate about emulation frontends, game modding tools, UI/UX for retro gaming, and community-driven projects. as well as custom versions of Microsft windows and google android.
 
 ### 🚀 Best Projects
 
