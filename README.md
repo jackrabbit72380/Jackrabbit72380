@@ -5,15 +5,31 @@
   <h1>Hi 👋, I'm (jackrabbit72380)</h1>
 </div>
 
-**A Little bit About Me!** I am a Huge software and hardware entusiast jack of all trades if you will with a knack for building and creating digital content,
-**I cary manny roals such as** 
-**Software Developer • Graphic Designer • Reverse Engineer • Programmer Ui/Ux/Os Developer**
+A Little Bit About Me!
+I'm a huge software and hardware enthusiast — a true jack-of-all-trades with a passion for building and creating digital content.
+Roles I wear:
+Software Developer • Graphic Designer • Reverse Engineer • Programmer • UI/UX/OS Developer
+I create tools, frontends, mods, custom operating systems, and creative assets — primarily in the Windows environment, but also deeply involved in the Wii U emulation scene (Cemu), Halo modding scene, and retro gaming theming — hobbies I've loved for years.
+Tools & tech I work with:
 
-I create tools, frontends, mods, Operating Systems and other creative assets — mainly in the *Windows Operating Envioment** also been around the **Wii U emulation scene** (Cemu), & **Halo modding Scene**, and retro gaming theming. has always been one of my hobbys. I work with **Adobe Photoshop**, **3ds Max**, **Blender**, and code in C#, Python, JavaScript, HTML/CSS, BASIC, Batch, AutoIt, and more.  
-I am Passionate about emulation frontends, game modding tools, UI/UX/OS Development for retro gaming, Community-driven projects. as well as custom versions of Microsft Windows & Google Android.
-I am the first perosn to relese a color version of windows moble v 7.8 back in 2005. Alpha Lion Rom Relesed over on the XDA Forums.
-and have been around the Halo moding scene sence around 2002. I have a long list of Repositoryts and Projects I am involved with. including my own game launcher and many new custom halo levels.
-Projects are always evolving so there are to manny to list here. But i will include some below.
+Design & 3D: Adobe Photoshop, 3ds Max, Blender
+Coding: C#, Python, JavaScript, HTML/CSS, BASIC, Batch, AutoIt, and more
+
+Passions:
+
+Emulation frontends and launchers
+Game modding tools
+UI/UX and custom OS development for retro gaming
+Community-driven projects
+Custom versions of Microsoft Windows and Google Android
+
+Notable milestones:
+
+In 2005, I was the first to release a full-color version of Windows Mobile 7.8 (Alpha Lion ROM) on the XDA Developers forums
+Active in the Halo modding scene since around 2002
+Long history with Android modding, custom ROMs, and Windows customization
+
+I maintain a growing list of repositories and projects — including my own game launchers, many new custom Halo levels, and evolving tools. Projects are always in motion, so there are too many to list here, but I'll highlight some of my current favorites below...
 
 ### 🚀 Best Projects
 
