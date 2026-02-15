@@ -4,9 +4,8 @@
   </a>
   <h1>Hi 👋, I'm (jackrabbit72380)</h1>
 </div>
-**A little bit about me!**
 
-**Software Developer • Graphic Designer • Reverse Engineer**
+**A little bit about me! Software Developer • Graphic Designer • Reverse Engineer**
 
 I create tools, frontends, mods, and creative assets — mainly in the **Wii U emulation scene** (Cemu), **Halo modding**, and retro gaming theming.  
 I work with **Adobe Photoshop**, **3ds Max**, **Blender**, and code in C#, Python, JavaScript, HTML/CSS, BASIC, Batch, AutoIt, and more.  
