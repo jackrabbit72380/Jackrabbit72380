@@ -1,6 +1,6 @@
 <h1 align="center"> # Hi there 👋, I'm Justin (jackrabbit72380)</h1>
 I am a Software Developer/Graphic Designer. My work mostly consists of Software development & reverse engineering. I like to design in Adobe Photoshop 3ds max, Blender & various other software. I dabble in web & application development, 3D modeling, and a little bit of programming. Mainly with Basic and HTML In my free time, I work on various video game projects Hope you find this repository & my little code sniplets usefull in some way. thanks for taking a look!</h3>
-Passionate about **emulation frontends**, **game modding tools**, **UI/UX for retro gaming**, and **community-driven tooling**.  
+im also Passionate about **emulation frontends**, **game modding tools**, **UI/UX for retro gaming**, and **community-driven tooling**.  
 Mostly active in the Wii U emulation scene and occasionally Halo modding / Blender asset pipelines.<h3 align="center">
 
 ## 🚀 Featured Projects
