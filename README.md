@@ -9,9 +9,10 @@
 **I cary manny roals such as** 
 **Software Developer • Graphic Designer • Reverse Engineer • Programmer Ui/Ux/Os Developer**
 
-I create tools, frontends, mods, Operating Systems and other creative assets — mainly in the **Wii U emulation scene** (Cemu), **Halo modding**, and retro gaming theming.  
-I work with **Adobe Photoshop**, **3ds Max**, **Blender**, and code in C#, Python, JavaScript, HTML/CSS, BASIC, Batch, AutoIt, and more.  
-Passionate about emulation frontends, game modding tools, UI/UX for retro gaming, and community-driven projects. as well as custom versions of Microsft windows and google android.
+I create tools, frontends, mods, Operating Systems and other creative assets — mainly in the *Windows Operating Envioment** also been around the **Wii U emulation scene** (Cemu), & **Halo modding Scene**, and retro gaming theming. has always been one of my hobbys. I work with **Adobe Photoshop**, **3ds Max**, **Blender**, and code in C#, Python, JavaScript, HTML/CSS, BASIC, Batch, AutoIt, and more.  
+I am Passionate about emulation frontends, game modding tools, UI/UX/OS Development for retro gaming, Community-driven projects. as well as custom versions of Microsft Windows & Google Android.
+I am the first perosn to relese a color version of windows moble v 7.8 back in 2005. Alpha Lion Rom Relesed over on the XDA Forums.
+and have been around the Halo moding scene sence around 2002.
 
 ### 🚀 Best Projects
 
