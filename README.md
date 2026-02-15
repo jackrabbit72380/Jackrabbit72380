@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://github.com/jackrabbit72380/Jackrabbit72380/main/Jackrabbit72380_Banner.png](https://github.com/jackrabbit72380/Jackrabbit72380/blob/main/JackRabbit72380_Banner.jpg))" width="100"/>
+  <img src="[https://github.com/jackrabbit72380/Jackrabbit72380/blob/main/JackRabbit72380_Banner.jpg))" width="100"/>
   <h1>Hi 👋, I'm Justin (jackrabbit72380)</h1>
 </div>
 
