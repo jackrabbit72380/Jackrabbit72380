@@ -45,6 +45,10 @@ WPF, WinForms, Electron, static sites (GitHub Pages), custom theming
 **Domains**  
 Emulators (Cemu, Xenia), game asset pipelines, metadata/scraping, reverse engineering, retro gaming mods
 
+### 📊 GitHub Stats
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackrabbit72380&theme=light&hide_langs_below=1">
+<img src="https://github-readme-stats.vercel.app/api?username=jackrabbit72380&show_icons=true&include_all_commits=true">
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackrabbit72380&theme=light&layout=compact&hide=less-popular" alt="Top languages"/>
   <br/><br/>
