@@ -2,7 +2,7 @@
   <a href="https://github.com/jackrabbit72380">
     <img src="https://raw.githubusercontent.com/jackrabbit72380/Jackrabbit72380/main/JackRabbit72380_Banner.jpg" alt="Jackrabbit72380 Banner" width="100%" />
   </a>
-  <h1>Hi 👋, I'm (jackrabbit72380)</h1>
+  <h1>👋 Hi, I'm (jackrabbit72380)</h1>
 </div>
 
 A Little Bit About Me!
