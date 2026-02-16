@@ -7,7 +7,7 @@
 
 About me!
 
-I'm a huge software and hardware enthusiast — a true jack-of-all-trades with a passion for building and creating digital content.
+I'm a huge software & hardware enthusiast — a true jack-of-all-trades with a passion for building and creating digital content.
 Roles I wear:
 Software Developer • Graphic Designer • Reverse Engineer • Programmer • UI/UX/OS Developer
 I create tools, frontends, mods, custom operating systems, and creative assets — primarily in the Windows environment, but also deeply involved in the Wii U emulation scene (Cemu), Halo modding scene, and retro gaming theming — hobbies I've loved for years.
