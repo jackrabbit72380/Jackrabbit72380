@@ -6,6 +6,7 @@
 </div>
 
 A Little Bit About Me!
+
 I'm a huge software and hardware enthusiast — a true jack-of-all-trades with a passion for building and creating digital content.
 Roles I wear:
 Software Developer • Graphic Designer • Reverse Engineer • Programmer • UI/UX/OS Developer
