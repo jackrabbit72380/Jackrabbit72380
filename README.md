@@ -5,7 +5,7 @@
   <h1>👋 Hi, I'm (jackrabbit72380)</h1>
 </div>
 
-A Little Bit About Me!
+About me!
 
 I'm a huge software and hardware enthusiast — a true jack-of-all-trades with a passion for building and creating digital content.
 Roles I wear:
