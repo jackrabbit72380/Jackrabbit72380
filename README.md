@@ -70,8 +70,7 @@ Other notable work:
 <img src="https://github-readme-stats-fast.vercel.app/api?username=jackrabbit72380&show_icons=true&include_all_commits=true&v=2">
 
 ### 📫 Connect & Support
-
-
+//
 - GitHub: [@jackrabbit72380](https://github.com/jackrabbit72380)  
 - Discord: J.r.L/\nd#1627[](https://discord.gg/2N3JXnw4)  
 - Twitter/X: [@landsoftworks](https://twitter.com/landsoftworks)  
