@@ -71,6 +71,7 @@ Other notable work:
 
 ### 📫 Connect & Support
 
+
 - GitHub: [@jackrabbit72380](https://github.com/jackrabbit72380)  
 - Discord: J.r.L/\nd#1627[](https://discord.gg/2N3JXnw4)  
 - Twitter/X: [@landsoftworks](https://twitter.com/landsoftworks)  
