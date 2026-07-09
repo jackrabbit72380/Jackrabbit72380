@@ -78,15 +78,7 @@ Other notable work:
 - Email: jackrabbit72380@hotmail.com  
 
 Love the projects? Support future work on [Patreon](https://patreon.com/Jackrabbit72380) — every bit helps bring more tools and mods!
-
 Feel free to star ⭐ repos, open issues/PRs, or chat about Wii U emulation, Halo mods, Blender, theming, or retro gaming.  
-
-Thanks for visiting! 🐰
-- Discord: J.r.L/\nd#1627 (server: https://discord.gg/2N3JXnw4)
-- Twitter/X: [@landsoftworks](https://twitter.com/landsoftworks)
-- LinkedIn: [Justin Land](https://www.linkedin.com/in/justin-land-4a83682b/)
-- Email: jackrabbit72380@hotmail.com
-
 If you like my work & want to help out you can support further developments on Patreon — all donations greatly appreciated!  
 patreon.com/Jackrabbit72380
 
